@@ -1,0 +1,34 @@
+[10Feb.2024 14:01:49.778] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\Owner\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.2.4, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, skulkatum, --all, --output, C:\Users\Owner\Downloads\Forge-Skulkatum-1.20.1\src\generated\resources, --existing, C:\Users\Owner\Downloads\Forge-Skulkatum-1.20.1\src\main\resources]
+[10Feb.2024 14:01:49.783] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.9 by Amazon.com Inc.; OS Windows 11 arch amd64 version 10.0
+[10Feb.2024 14:01:49.865] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[10Feb.2024 14:01:49.895] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Owner/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[10Feb.2024 14:01:50.066] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Owner\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.2.4\958ae1e5a66a92b3fb23f8dc37cecb5a944c5f2f\javafmllanguage-1.20.1-47.2.4.jar is missing mods.toml file
+[10Feb.2024 14:01:50.069] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Owner\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.2.4\12b37609e48dab8e735adc588cbc29fe0672b570\lowcodelanguage-1.20.1-47.2.4.jar is missing mods.toml file
+[10Feb.2024 14:01:50.071] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Owner\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.2.4\c1bad4a902985a8ec9632e9b50f640a769dfbf29\mclanguage-1.20.1-47.2.4.jar is missing mods.toml file
+[10Feb.2024 14:01:50.072] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Owner\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.2.4\79d33939e875d82fa7165851684000ec575c0877\fmlcore-1.20.1-47.2.4.jar is missing mods.toml file
+[10Feb.2024 14:01:50.129] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[10Feb.2024 14:01:50.956] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10Feb.2024 14:01:50.959] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\Owner\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, skulkatum, --all, --output, C:\Users\Owner\Downloads\Forge-Skulkatum-1.20.1\src\generated\resources, --existing, C:\Users\Owner\Downloads\Forge-Skulkatum-1.20.1\src\main\resources]
+[10Feb.2024 14:01:51.212] [main/INFO] [mixin/]: Remapping refMap lodestone.refmap.json using C:\Users\Owner\Downloads\Forge-Skulkatum-1.20.1\build\createSrgToMcp\output.srg
+[10Feb.2024 14:01:51.213] [main/INFO] [mixin/]: Remapping refMap curios.refmap.json using C:\Users\Owner\Downloads\Forge-Skulkatum-1.20.1\build\createSrgToMcp\output.srg
+[10Feb.2024 14:01:51.531] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [skulkatum]
+[10Feb.2024 14:01:54.283] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.4, for MC 1.20.1 with MCP 20230612.114412
+[10Feb.2024 14:01:54.283] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.4 Initialized
+[10Feb.2024 14:01:54.648] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Owner/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.4_mapped_parchment_2023.06.26-1.20.1/forge-1.20.1-47.2.4_mapped_parchment_2023.06.26-1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[10Feb.2024 14:01:54.648] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Owner/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.4_mapped_parchment_2023.06.26-1.20.1/forge-1.20.1-47.2.4_mapped_parchment_2023.06.26-1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[10Feb.2024 14:01:54.832] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[10Feb.2024 14:01:54.880] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 48 ms
+[10Feb.2024 14:01:54.880] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[10Feb.2024 14:01:54.915] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 34 ms
+[10Feb.2024 14:01:54.916] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: skulkatum
+[10Feb.2024 14:01:55.030] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: skulkatum finished after 114 ms
+[10Feb.2024 14:01:55.030] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: skulkatum
+[10Feb.2024 14:01:55.083] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: skulkatum finished after 52 ms
+[10Feb.2024 14:01:55.083] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id skulkatum
+[10Feb.2024 14:01:55.095] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id skulkatum finished after 11 ms
+[10Feb.2024 14:01:55.095] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id skulkatum
+[10Feb.2024 14:01:55.098] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id skulkatum finished after 3 ms
+[10Feb.2024 14:01:55.098] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Global Loot Modifiers : skulkatum
+[10Feb.2024 14:01:55.107] [main/INFO] [net.minecraft.data.DataGenerator/]: Global Loot Modifiers : skulkatum finished after 8 ms
+[10Feb.2024 14:01:55.107] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 274 ms
+[10Feb.2024 14:01:55.114] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 188, old count: 189, new count: 189, removed stale: 0, written: 0

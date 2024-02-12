@@ -1,0 +1,14 @@
+{
+  "fallen_geode_glow": {
+    "subtitles": "sounds.skulkatum.fallen_geode_glow",
+    "sounds": [
+      "skulkatum:fallen_geode_glow"
+    ]
+  },
+  "fallen_geode_shatter": {
+    "subtitles": "sounds.skulkatum.fallen_geode_shatter",
+    "sounds": [
+      "skulkatum:fallen_geode_shatter"
+       ]
+      }
+}

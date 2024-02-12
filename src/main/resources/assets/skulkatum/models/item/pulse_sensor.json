@@ -1,0 +1,18 @@
+{
+  "parent" : "minecraft:item/handheld",
+  "loader" : "forge:separate_transforms",
+  "base": {
+    "parent" : "skulkatum:item/pulse_sensor_3d"
+  },
+  "perspectives": {
+    "gui" : {
+      "parent": "skulkatum:item/pulse_sensor_2d"
+    },
+    "ground" : {
+      "parent": "skulkatum:item/pulse_sensor_2d"
+    },
+    "fixed" : {
+      "parent": "skulkatum:item/pulse_sensor_2d"
+    }
+  }
+}

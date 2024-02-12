@@ -1,0 +1,18 @@
+{
+  "parent" : "minecraft:item/handheld",
+        "loader" : "forge:separate_transforms",
+  "base": {
+    "parent" : "skulkatum:item/arc_edge_3d"
+  },
+  "perspectives": {
+    "gui" : {
+      "parent": "skulkatum:item/arc_edge_2d"
+    },
+    "ground" : {
+      "parent": "skulkatum:item/arc_edge_2d"
+    },
+    "fixed" : {
+      "parent": "skulkatum:item/arc_edge_2d"
+    }
+  }
+}

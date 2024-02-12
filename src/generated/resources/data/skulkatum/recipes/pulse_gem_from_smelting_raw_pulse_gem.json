@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 500,
+  "experience": 10.0,
+  "group": "pulse_gem",
+  "ingredient": {
+    "item": "skulkatum:raw_pulse_gem"
+  },
+  "result": "skulkatum:pulse_gem"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "skulkatum:block/echo_slab"
+    },
+    "type=double": {
+      "model": "skulkatum:block/echo_planks"
+    },
+    "type=top": {
+      "model": "skulkatum:block/echo_slab_top"
+    }
+  }
+}

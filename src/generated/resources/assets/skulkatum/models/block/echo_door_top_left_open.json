@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_top_left_open",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bottom": "skulkatum:block/echo_door_bottom",
+    "top": "skulkatum:block/echo_door_top"
+  }
+}

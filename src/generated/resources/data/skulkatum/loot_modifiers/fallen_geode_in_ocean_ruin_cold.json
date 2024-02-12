@@ -1,0 +1,10 @@
+{
+  "type": "skulkatum:add_sus_sand_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:archaeology/ocean_ruin_cold"
+    }
+  ],
+  "item": "skulkatum:fallen_geode"
+}

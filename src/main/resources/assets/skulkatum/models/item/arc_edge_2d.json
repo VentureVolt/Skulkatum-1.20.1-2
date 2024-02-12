@@ -1,0 +1,6 @@
+{
+  "parent" : "minecraft:item/handheld",
+  "textures": {
+    "layer0" : "skulkatum:item/arc_edge_2d"
+  }
+}

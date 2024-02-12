@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:echo_shard"
+    },
+    "P": {
+      "item": "skulkatum:pulse_gem"
+    }
+  },
+  "pattern": [
+    " P ",
+    " P ",
+    " E "
+  ],
+  "result": {
+    "item": "skulkatum:pulse_sword"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,56 @@
+{
+  "item.skulkatum.echo_catalyst": "Echo Catalyst",
+  "item.skulkatum.vibrocloth": "Vibration cloth",
+  "item.skulkatum.echo_scythe": "Echo Scythe",
+  "item.skulkatum.pulse_sensor": "Pulse Sensor",
+  "item.skulkatum.warden_horn": "Warden Horn",
+  "item.skulkatum.sculk_sage": "Sculk Sage",
+  "item.skulkatum.nimbium_ingot": "Nimbium Ingot",
+  "item.skulkatum.sculk_sage_seeds": "Sculk Sage Seeds",
+  "item.skulkatum.pulse_gem": "Pulse Gem",
+  "item.skulkatum.raw_pulse_gem": "Raw Pulse Gem",
+  "item.skulkatum.vibralium_flower": "Vibralium Flower",
+  "item.skulkatum.fallen_geode": "Fallen Geode",
+  "item.skulkatum.resonating_mallet": "Resonating Mallet",
+  "item.skulkatum.sculklaw": "Sculklaw",
+  "item.skulkatum.pulse_pickaxe": "Pulse Pickaxe",
+  "item.skulkatum.pulse_shovel": "Pulse Shovel",
+  "item.skulkatum.pulse_hoe": "Pulse Hoe",
+  "item.skulkatum.pulse_axe": "Pulse Axe",
+  "item.skulkatum.pulse_sword": "Pulse Sword",
+  "item.skulkatum.pulse_helmet": "Pulse Helmet",
+  "item.skulkatum.pulse_chestplate": "Pulse Chestplate",
+  "item.skulkatum.pulse_leggings": "Pulse Leggings",
+  "item.skulkatum.pulse_boots": "Pulse Boots",
+  "item.skulkatum.arc_edge": "Arc Edge",
+  "item.skulkatum.fallen_geode_spawn_egg": "Spawn Fallen Geode",
+
+
+  "block.skulkatum.echo_log": "Echo Log",
+  "block.skulkatum.echo_wood": "Echo Wood",
+  "block.skulkatum.stripped_echo_log": "Stripped Echo Log",
+  "block.skulkatum.stripped_echo_wood": "Stripped Echo Wood",
+  "block.skulkatum.echo_stairs": "Echo Stairs",
+  "block.skulkatum.echo_slab": "Echo Slab",
+  "block.skulkatum.echo_door": "Echo Door",
+  "block.skulkatum.echo_trapdoor": "Echo Trapdoor",
+  "block.skulkatum.echo_fence": "Echo Fence",
+  "block.skulkatum.echo_fence_gate": "Echo Fence Gate",
+  "block.skulkatum.echo_button": "Echo Button",
+  "block.skulkatum.echo_planks": "Echo Planks",
+  "block.skulkatum.echo_pressure_plate": "Echo Pressure Plate",
+  "block.skulkatum.flowering_echo_leaves": "Flowering Echo Leaves",
+  "block.skulkatum.deepslate_pulse_gem_ore": "Deepslate Pulse Gem Ore",
+  "block.skulkatum.alyssum": "Alyssum",
+
+
+  "entity.skulkatum.fallen_geode": "Fallen Geode Meteorite",
+
+  "sounds.skulkatum.fallen_geode_glow": "Fallen Geode Glows",
+  "sounds.skulkatum.fallen_geode_shatter": "Fallen Geode Shatters",
+
+
+
+
+  "creativetab.skulkatum_tab": "Skulkatum"
+}

@@ -1,0 +1,13 @@
+{
+  "entries": [
+    "skulkatum:pulse_gem_in_ancient_city",
+    "skulkatum:fallen_geode_in_trail_ruins_common",
+    "skulkatum:pulse_gem_in_ancient_city_ice_box",
+    "skulkatum:warden_horn_from_warden",
+    "skulkatum:fallen_geode_in_ocean_ruin_cold",
+    "skulkatum:fallen_geode_in_desert_temple",
+    "skulkatum:fallen_geode_in_trail_runes_rare",
+    "skulkatum:fallen_geode_in_ocean_ruin_warm"
+  ],
+  "replace": false
+}

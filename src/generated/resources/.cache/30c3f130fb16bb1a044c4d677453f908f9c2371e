@@ -1,0 +1,11 @@
+// 1.20.1	2023-11-21T19:19:50.4723666	Tags for minecraft:block mod id skulkatum
+d5697b783a8f3e4be5f2a6df096930e7b37b7e2d data/forge/tags/blocks/needs_netherite_tool.json
+eee0c3085143881697736b64f6b79e24b8daae81 data/minecraft/tags/blocks/fences.json
+ab2539673fa39e465096bd8c9511d21dec5752b5 data/minecraft/tags/blocks/fence_gates.json
+a0b4772971daaf5b676d1d001cbb7e8873915c0c data/minecraft/tags/blocks/mineable/axe.json
+550e225317aab49e3d57efb6b561b6f4fdcf52da data/minecraft/tags/blocks/mineable/hoe.json
+b633d8e5bf0dc0814a64f528f470774c7338bbff data/minecraft/tags/blocks/mineable/pickaxe.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_diamond_tool.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_iron_tool.json
+a0b4772971daaf5b676d1d001cbb7e8873915c0c data/minecraft/tags/blocks/needs_stone_tool.json
+d5697b783a8f3e4be5f2a6df096930e7b37b7e2d data/skulkatum/tags/blocks/pulsesensoritem.json
